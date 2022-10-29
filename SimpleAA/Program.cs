@@ -23,7 +23,7 @@ namespace SimpleAA
             Console.WriteLine("8");
 
             Console.WriteLine("20");
-
+            Console.WriteLine("16");
 
            
 
