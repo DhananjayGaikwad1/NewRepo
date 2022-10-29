@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SimpleAA\SimpleAA\bin\Debug\SimpleAA.exe.config
+C:\Users\Admin\source\repos\SimpleAA\SimpleAA\bin\Debug\SimpleAA.exe
+C:\Users\Admin\source\repos\SimpleAA\SimpleAA\bin\Debug\SimpleAA.pdb
+C:\Users\Admin\source\repos\SimpleAA\SimpleAA\obj\Debug\SimpleAA.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpleAA\SimpleAA\obj\Debug\SimpleAA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleAA\SimpleAA\obj\Debug\SimpleAA.exe
+C:\Users\Admin\source\repos\SimpleAA\SimpleAA\obj\Debug\SimpleAA.pdb
