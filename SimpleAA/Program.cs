@@ -18,6 +18,7 @@ namespace SimpleAA
             Console.WriteLine("one Line");
             Console.WriteLine("two  line");
             Console.WriteLine("3");
+            Console.WriteLine("4");
             Console.ReadLine();
         }
     }
