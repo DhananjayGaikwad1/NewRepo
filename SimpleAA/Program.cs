@@ -10,7 +10,6 @@ namespace SimpleAA
     {
         static void Main(string[] args)
         {
-
             int a = 10;
             int b = 9;
             int c = a + b;
@@ -22,6 +21,15 @@ namespace SimpleAA
             Console.WriteLine("7");
             Console.WriteLine("9");
             Console.WriteLine("8");
+
+
+            Console.WriteLine("AA");
+
+
+
+
+
+
             Console.ReadLine();
         }
     }
