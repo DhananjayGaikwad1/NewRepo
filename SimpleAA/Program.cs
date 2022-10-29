@@ -29,7 +29,8 @@ namespace SimpleAA
 
 
 
-
+            
+            Console.WriteLine("19");
             Console.ReadLine();
         }
     }
